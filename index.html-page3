@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Stephen Curry - Basketball Player</title>
+</head>
+<body>
+    <h1>Stephen Curry</h1>
+    <p>Renowned for his incredible shooting skills.</p>
+    <h2>Stats</h2>
+    <ul>
+        <li>Points per Game: 27.3</li>
+        <li>Rebounds per Game: 5.3</li>
+        <li>Assists per Game: 6.2</li>
+        <li>Field Goal Percentage: 48.2%</li>
+        <li>Three-Point Percentage: 42.1%</li>
+    </ul>
+</body>
+</html>
