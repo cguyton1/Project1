@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>LeBron James - Basketball Player</title>
+</head>
+<body>
+    <h1>LeBron James</h1>
+    <p>One of the greatest basketball players of all time.</p>
+    <h2>Stats</h2>
+    <ul>
+        <li>Points per Game: 27.0</li>
+        <li>Rebounds per Game: 7.4</li>
+        <li>Assists per Game: 7.4</li>
+        <li>Field Goal Percentage: 50.2%</li>
+        <li>Three-Point Percentage: 34.5%</li>
+    </ul>
+</body>
+</html>
